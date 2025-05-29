@@ -1,0 +1,23 @@
+{
+  "bronze": {
+    "locations": [
+    ]
+  },
+  "silver": {
+    "locations": [
+      { "x": 35.4, "y": 33.4 }
+    ]
+  },
+  "mimic": {
+    "locations": [
+    ]
+  },
+  "pot": {
+    "locations": [
+    ]
+  },
+  "carrot": {
+    "locations": [
+    ]
+  } 
+}
