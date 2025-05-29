@@ -1,6 +1,7 @@
 {
   "bronze": {
     "locations": [
+      { "x": 38.2, "y": 35.5 }
     ]
   },
   "silver": {
@@ -10,6 +11,7 @@
   },
   "mimic": {
     "locations": [
+      { "x": 27.4, "y": 12.0 }
     ]
   },
   "pot": {
