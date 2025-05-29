@@ -1,6 +1,6 @@
 const ocSouthSizeFactor = 100
 const ocSouthImage = new Image();
-ocSouthImage.src = 'OCSouth.png';
+ocSouthImage.src = 'zones/OCSouth.png';
 const ocSouthMap = document.getElementById("OCSouthMap");
 const ocSouthCTX = ocSouthMap.getContext('2d');
 
