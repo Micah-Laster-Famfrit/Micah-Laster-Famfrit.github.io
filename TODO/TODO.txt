@@ -1,1 +1,0 @@
-finish calculating and plotting missing cordinates from this map onto the needs to be verrified location list
